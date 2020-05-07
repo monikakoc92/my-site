@@ -1,0 +1,154 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 1rem;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin-top: 0;
+  font-family: 'Dawning of a New Day', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-weight: normal;
+  line-height: 2;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 130px;
+}
+
+.middle-container {
+  position: relative;
+  padding-top: 80px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  position: relative;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 100px;
+  left: 1000px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.footer-link {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 70px auto 70px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.computer-image {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.sewing-image {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.me-p {
+  color: #40514E;
+}
+
+.sewing-and-crafting {
+  color: #40514E;
+}
+
+.design-and-development{
+  color: #40514E;
+}
+
+.contact-me {
+  margin: 50px 0 50px 0;
+}
+
+.get-in-touch {
+  color: #40514E;
+}
+
+.rights-p {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding-top: 20px;
+}
+
+.btn {
+  	background-color:#11cdd4;
+  	-webkit-border-top-left-radius:9px;
+  	-moz-border-radius-topleft:9px;
+  	border-top-left-radius:9px;
+  	-webkit-border-top-right-radius:9px;
+  	-moz-border-radius-topright:9px;
+  	border-top-right-radius:9px;
+  	-webkit-border-bottom-right-radius:9px;
+  	-moz-border-radius-bottomright:9px;
+  	border-bottom-right-radius:9px;
+  	-webkit-border-bottom-left-radius:9px;
+  	-moz-border-radius-bottomleft:9px;
+  	border-bottom-left-radius:9px;
+  text-indent:0;
+  	border:1px solid #11cdd4;
+  	display:inline-block;
+  	color:#ffffff;
+  	font-family:arial;
+  	font-size:14px;
+  	font-weight:bold;
+  	font-style:normal;
+  height:37px;
+  	line-height:37px;
+  width:122px;
+  	text-decoration:none;
+  	text-align:center;
+  	text-shadow:1px 1px 0 #2f6627;
+  }.btn:hover {
+  	background-color:#11999e;
+  }.btn:active {
+  	position:relative;
+  	top:1px;
+  }
+
+hr {
+  width: 3%;
+  border-style: dotted none none;
+  border-width: thick;
+  border-color: #EAF6F6;
+}
